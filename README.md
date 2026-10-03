@@ -2,13 +2,14 @@
 
 > **Read-only archive of released versions of sycho/discussion-canonical-url.** Not for installation: use [Packagist](https://packagist.org/packages/sycho/discussion-canonical-url) or the [upstream repository](https://github.com/SychO9/flarum-discussion-canonical-url).
 
-**0** versions archived · Latest: [`0.1.1`](https://github.com/flarchive/sycho-discussion-canonical-url/tree/archive/v0.1.1) · License: `MIT` · Flarum: `^1.2.0`
+**2** versions archived · Latest: [`0.1.1`](https://github.com/flarchive/sycho-discussion-canonical-url/tree/archive/v0.1.1) · License: `MIT` · Flarum: `^1.2.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `0.1.1` | 2022-02-18 | `^1.2.0` | [Browse](https://github.com/flarchive/sycho-discussion-canonical-url/tree/archive/v0.1.1) |
+| `v0.1.0` | 2021-08-25 | `^1.0.0` | [Browse](https://github.com/flarchive/sycho-discussion-canonical-url/tree/archive/v0.1.0) |
 
 Catalog entry: [packages/sycho-discussion-canonical-url.json](https://github.com/flarchive/archive-index/blob/main/packages/sycho-discussion-canonical-url.json)
 
